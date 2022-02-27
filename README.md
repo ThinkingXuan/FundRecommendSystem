@@ -22,42 +22,44 @@
 
 - 系统功能图
 
-  ![image-20220227162431846](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/image-20220227162431846.png)
+  ![图0](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/图0.png)
 
 - 数据流图
 
-  ![image-20220227162444584](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/image-20220227162444584.png)
+  ![图1](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/图1.png)
 
 - 数据仓库架构图
 
-  ![image-20220227162454416](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/image-20220227162454416.png)
+  ![图2](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/图2.png)
 
 - 架构设计
 
-  ![image-20220227162511809](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/image-20220227162511809.png)
+  ![dsad](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/dsad.png)
 
 ### 前端演示：
 
 - 登录注册界面
 
-  ![](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/image-20220227162601705.png)![image-20220227162601705](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/image-20220227162601705.png)
+  ![2](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/2.png)
+
+  ![1](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/1.png)
 
 - 投资倾向填写界面
 
-  ![image-20220227162720676](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/image-20220227162720676.png)
+  ![3](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/3.png)
 
 - 基金组合主页
 
-  ![image-20220227162726304](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/image-20220227162726304.png)
+  ![4](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/4.png)
 
 - 基金组合详细页
 
-  ![image-20220227162804047](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/image-20220227162804047.png)
+  ![5](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/5.png)
 
-  ![image-20220227162809950](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/image-20220227162809950.png)
+  ![6](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/6.png)
 
-  ![image-20220227162816663](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/image-20220227162816663.png)
+  ![7](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/7.png)
 
 - 基金推荐界面
 
-  ![image-20220227162826540](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/image-20220227162826540.png)
+  ![8](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/8.png)
