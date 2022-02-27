@@ -1,0 +1,76 @@
+//登陆
+POST http://localhost:8080/frs/user/login
+Content-Type: application/json
+
+{
+  "username": "youxuan",
+  "password": "123456"
+}
+
+
+#########################################################
+
+POST http://localhost:8080/frs/user/register
+Content-Type: application/json
+
+{
+  "username": "youxuan",
+  "password": "123456",
+  "again_password": "123456"
+}
+
+#########################################################
+
+POST http://localhost:8080/frs/fund/usertendency
+Content-Type: application/json
+
+{
+  "username": "youxuan",
+  "invest_amount": "123",
+  "invest_duration": 100,
+  "type": 0,
+  "profit" : 150,
+  "dropdown": 22
+}
+
+#########################################################
+
+GET http://1.15.136.176:8080/frs/fund/getusertendency?username=youxuan
+
+#########################################################
+
+GET http://localhost:8080/frs/fund/getfundlist?current_page=1&page_size=10&default_order=0&invest_strategy=&manager_type=&from=
+
+#########################################################
+
+GET http://1.15.136.176:8080/frs/fund/searchfund?keyword=Alex
+
+#########################################################
+
+GET http://1.15.136.176:8080/frs/funddetail/detail?plan_code=CSI2001
+
+#########################################################
+
+GET http://1.15.136.176:8080/frs/funddetail/growth?plan_code=CSI2001
+
+#########################################################
+
+GET http://1.15.136.176:8080/frs/funddetail/plan?plan_code=CSI2001
+
+#########################################################
+
+GET http://1.15.136.176:8080/frs/funddetail/indicator?plan_code=CSI2001
+
+#########################################################
+
+GET http://1.15.136.176:8080/frs/funddetail/summary?plan_code=CSI2001
+
+#########################################################
+GET http://localhost:8080/frs/funddetail/tiantian_detail?plan_code=10106134
+
+#########################################################
+
+GET http://1.15.136.176:8080/frs/funddetail/tiantian_fund_growth?plan_code=10106134
+
+#########################################################
+GET http://localhost:8080/frs/fund/recommender?username=youxuan
